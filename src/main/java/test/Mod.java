@@ -1,6 +1,6 @@
 package test;
 
-import java.util.HashSet;
+import java.util.*;
 
 public class Mod {
     public String divide(int i, int j){
